@@ -1,16 +1,23 @@
-## Hi there 👋
+## I'm Tim - Currently a Software Developer student.
 
-<!--
-**Tim-Nyman/Tim-Nyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:<br>
+🧑‍💻 Name: Tim<br>
+🎂 Age: 30<br>
+🌍 From: Uppsala, Sweden.<br>
+🌱 Main Language: C#<br>
+[Link to Portfolio Website](https://tim-nyman.github.io/PortfolioWebsite/#Database)
 
-Here are some ideas to get you started:
+📫 How to reach me:<br>
+https://www.linkedin.com/in/tim-nyman-16061b245/<br>
+Timnyman@live.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:<br>
+### Programming<br>
+* C#
+* Database SQL
+* Frontend Development
+    * HTML, CSS, JavaScript, TypeScript, React, Angular
+* ASP.NET Development
+* Object-Oriented Analysis and Design
+* Data Communication and Security
+* DevOps
